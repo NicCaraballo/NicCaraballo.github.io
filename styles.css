@@ -66,18 +66,18 @@ h4{
 .about{
     display:flex;
     flex-wrap:wrap;
-    margin-right: 500px;
+    margin-right: 50px;
     margin-left: 50px;
     justify-content: center;
     
 }
 
 .about p {
-    width:50%;
+    width:30%;
     text-align: center;
     margin: auto;
     line-height: 125%;
-    padding: 25px 10px;
+    padding: 20px 10px;
     background:rgb(34, 181, 81);
     border-radius: 10%;
 }
