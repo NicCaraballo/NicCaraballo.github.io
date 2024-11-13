@@ -15,15 +15,21 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h3{
-    color:brown;
+h3 {
+    color: greenyellow;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h4{
+    color:brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5{
     color:black;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 
 .projects{
     display:flex;
@@ -87,4 +93,10 @@ h4{
     height: 300px;
     border-radius: 25%;
     border: 2px solid rgb(105, 12, 167);
+}
+
+
+
+.skills a{
+    color: greenyellow;
 }
